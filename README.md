@@ -1,2 +1,2 @@
 # Sysinfo-php
-System information served from pho.
+System information served from php.
